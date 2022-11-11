@@ -1,1 +1,1 @@
-Archivo2
+Las diferencias entre el repositorio en el area de working y el archivo en el repositorio, son, que en el area de working te aparecen las modificaciones realizadas en la carpeta de trabajo y luego podemos validarlas usando un git add para llevarlas al área de preparación y luego de eso, una vez estemos en el área de preparación, realizar un commit. El área de working nos aparecen los ficheros creados en rojo y es el paso previo al área de preparación.
